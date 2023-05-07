@@ -1,0 +1,20 @@
+li:hover .fas {
+    display: inline-block;
+  }
+  .fas {
+    display: none;
+  }
+
+  .clear-all-btn {
+    display: block;
+    margin: auto;
+    background-color: #ff6666;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
